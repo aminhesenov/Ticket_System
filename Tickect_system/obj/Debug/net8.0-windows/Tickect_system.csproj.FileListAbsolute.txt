@@ -1,0 +1,17 @@
+D:\C# lesson\Tickect_system\Tickect_system\bin\Debug\net8.0-windows\Tickect_system.exe
+D:\C# lesson\Tickect_system\Tickect_system\bin\Debug\net8.0-windows\Tickect_system.deps.json
+D:\C# lesson\Tickect_system\Tickect_system\bin\Debug\net8.0-windows\Tickect_system.runtimeconfig.json
+D:\C# lesson\Tickect_system\Tickect_system\bin\Debug\net8.0-windows\Tickect_system.dll
+D:\C# lesson\Tickect_system\Tickect_system\bin\Debug\net8.0-windows\Tickect_system.pdb
+D:\C# lesson\Tickect_system\Tickect_system\obj\Debug\net8.0-windows\Tickect_system.Form1.resources
+D:\C# lesson\Tickect_system\Tickect_system\obj\Debug\net8.0-windows\Tickect_system.csproj.GenerateResource.cache
+D:\C# lesson\Tickect_system\Tickect_system\obj\Debug\net8.0-windows\Tickect_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\Tickect_system\Tickect_system\obj\Debug\net8.0-windows\Tickect_system.AssemblyInfoInputs.cache
+D:\C# lesson\Tickect_system\Tickect_system\obj\Debug\net8.0-windows\Tickect_system.AssemblyInfo.cs
+D:\C# lesson\Tickect_system\Tickect_system\obj\Debug\net8.0-windows\Tickect_system.csproj.CoreCompileInputs.cache
+D:\C# lesson\Tickect_system\Tickect_system\obj\Debug\net8.0-windows\Tickect_system.dll
+D:\C# lesson\Tickect_system\Tickect_system\obj\Debug\net8.0-windows\refint\Tickect_system.dll
+D:\C# lesson\Tickect_system\Tickect_system\obj\Debug\net8.0-windows\Tickect_system.pdb
+D:\C# lesson\Tickect_system\Tickect_system\obj\Debug\net8.0-windows\Tickect_system.genruntimeconfig.cache
+D:\C# lesson\Tickect_system\Tickect_system\obj\Debug\net8.0-windows\ref\Tickect_system.dll
+D:\C# lesson\Tickect_system\Tickect_system\obj\Debug\net8.0-windows\Tickect_system.Properties.Resources.resources
